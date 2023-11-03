@@ -18,9 +18,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Kate Experiments with UMD Libraries Digital Objects
+title: UMD Libraries Digital Objects
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Collection Magic with Static Web Technologies
+tagline: Preliminary testing by an overeager border collie
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Bad Kate is testing CollectionBuilder with digital objects and learning things, even though this is not her job and she has a book to write."
