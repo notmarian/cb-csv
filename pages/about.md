@@ -12,6 +12,12 @@ credits: true
 
 {% include feature/nav-menu.html sections="About CollectionBuilder CSV;About the About Page" %}
 
+## Testing certain functional types
+Kate's just playing around with some includes and how easy/hard it might be to create narrative pages.
+
+{% include feature/image.html objectid="univarch-030237;univarch-045208" width="75" caption="First caption;Second caption!" %}
+
+
 ## About CollectionBuilder CSV
 
 This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).

@@ -50,10 +50,10 @@ metadata: cb-csv_metadata-ingestfile
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+organization-name: "UMD Libraries"
+organization-link: https://digital.lib.umd.edu
+organization-logo-banner: https://digital.lib.umd.edu/sites/default/files/2023-08/umd-lib-digital-collections-logo.svg
+# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
 # GOOGLE SERVICES [optional!]
