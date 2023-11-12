@@ -18,12 +18,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: UMD Libraries Digital Objects
+title: UMD Libraries Static Digital Exhibits
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Preliminary testing by an overeager border collie
+tagline: Experimenting with Digital Objects
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Bad Kate is testing CollectionBuilder with digital objects and learning things, even though this is not her job and she has a book to write."
+description: "Kate is testing CollectionBuilder with digital objects and learning things, even though this is not her job and she has a book to write."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: UMD;university archives;maryland
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -53,7 +53,7 @@ metadata: cb-csv_metadata-ingestfile
 organization-name: "UMD Libraries"
 organization-link: https://digital.lib.umd.edu
 organization-logo-banner: https://digital.lib.umd.edu/sites/default/files/2023-08/umd-lib-digital-collections-logo.svg
-# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-logo-nav: https://digital.lib.umd.edu/sites/default/files/2023-08/umd-lib-digital-collections-logo.svg
 
 ##########
 # GOOGLE SERVICES [optional!]
